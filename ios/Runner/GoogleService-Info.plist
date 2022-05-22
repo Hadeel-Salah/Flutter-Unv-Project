@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>258316674329-d3tpuq54p6o2672csb8vhhqcefbbstqm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.258316674329-d3tpuq54p6o2672csb8vhhqcefbbstqm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACl2m5goY_k4G76b5fYy0fVK4ixGoAo1c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>258316674329</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.taskThree</string>
+	<key>PROJECT_ID</key>
+	<string>task-three-d406c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>task-three-d406c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:258316674329:ios:9df0284ba25457cc691188</string>
+</dict>
+</plist>
